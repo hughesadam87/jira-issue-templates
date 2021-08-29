@@ -1,0 +1,37 @@
+h2. Short Summary
+
+(Short summary of task here - eg. ‘unit tests are failing on finance-rest builds if run on node agent XYZ')
+
+h2. Stake Holders
+
+* Reporter                                 → _Person and Date Issue First Reported_
+* Primary Dev                            → _Person_
+* QA Signoff (if applicable)       → _Person and Date Signed_
+
+h2. Impact/Urgency
+
+(Describe the business impact of task and urgency of fix.  Don’t forget to populate priority field)
+
+h2. Full Description
+
+(More detailed description, including steps to reproduce, including _inline_ screenshots and/or gifs.  Carefully describe current behavior vs. expected behavior)
+
+h2. Related Items & Feedback
+
+(Link spicework tickets, email conversations, feedback sessions etc...)
+
+h2. Root Cause Analysis
+
+(Investigative details on why bug occurred - to be done by BA and/or Dev)
+
+h2. Follow-up & Follows-from
+
+(Link issues and/or describe any follow-up items necessary to complete - for example, task may have a part 2 ticket tracked for next quarter etc...)
+
+h2. Test Cases
+
+(Clear step-by-step test cases)
+
+h2. Technical Notes
+
+(Track any technical details worth preserving, such as DB queries, screenshots of logs etc…)
