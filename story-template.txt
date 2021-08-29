@@ -1,0 +1,35 @@
+h2. Short Summary
+
+(Short summary of story here - eg. ‘user needs to use Trucking API so that brokerage users don’t need to read slow, manual files')
+
+h2. Stake Holders
+
+* User Reporting  → *_Person and Date Issue First Reported_*
+* Reporting BA     → *_Person_*
+* Primary Dev       → *_Person_*
+* QA Signoff         → *_Person and Date Signed_*
+* UAT Signoff        → *_Person and Date Signed_*
+
+h2. Impact/Urgency
+
+(Describe the business impact of this feature - eg. without this, finance users are losing 2hr/week to tedious manual task XYZ.  Don’t forget to populate priority field)
+
+h2. Full Description & Acceptance Criteria
+
+(More detailed description, including steps to reproduce, *including* *_inline_* *screenshots and/or gifs*.  Carefully describe current behavior vs. expected behavior.  Acceptance criteria must be clearly outlined before dev work can start)
+
+h2. Related Items & Feedback
+
+(Link spicework tickets, email conversations, feedback sessions etc...)
+
+h2. Follow-up & Follows-from
+
+(Link issues and/or describe any follow-up items necessary to complete - for example, story may have a part 2 ticket tracked for next quarter etc...)
+
+h2. Test Cases
+
+(Clear step-by-step test cases)
+
+h2. Technical Notes
+
+(Track any technical details worth preserving, such as DB queries, screenshots of logs etc…)
